@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='SE-0003'/>
+        <page name='SE-0007'/>
+        <page name='SE-0025'/>
+        <page name='SE-0039'/>
+        <page name='SE-0043'/>
+        <page name='SE-0044'/>
+        <page name='SE-0048'/>
+        <page name='SE-0066'/>
+        <page name='SE-0099'/>
+        <page name='SE-0094'/>
+        <page name='SE-0095'/>
+        <page name='SE-0117'/>
+        <page name='SE-0131'/>
+        <page name='SE-0062'/>
+        <page name='SE-0106'/>
+    </pages>
+</playground>
